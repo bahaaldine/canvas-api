@@ -1,6 +1,6 @@
 # canvas-action
 
-> Call a third party API from Canvas
+> A button to call a third party API from Canvas
 
 ## Examples
 
