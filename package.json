@@ -1,5 +1,5 @@
 {
-  "name": "canvas_action",
+  "name": "canvas_api",
   "version": "0.0.0",
   "description": "Call a third party API from Canvas",
   "main": "index.js",

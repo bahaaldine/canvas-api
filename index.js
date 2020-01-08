@@ -5,12 +5,12 @@ export default function (kibana) {
     require: ['interpreter', 'canvas'],
 
     // The name of your plugin. Make this whatever you want.
-    name: 'canvas_action',
+    name: 'canvas_api',
 
     uiExports: {
       // Tell Kibana that the files in `/public` should be loaded into the
       // browser only when the user is in the Canvas app.
-      canvas: ['plugins/canvas_action']
+      canvas: ['plugins/canvas_api']
     },
 
     // Enable the plugin by default
